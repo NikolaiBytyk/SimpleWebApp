@@ -1,4 +1,4 @@
-package com.kpi.firstTry.Repository;
+package com.kpi.firstTry.repository;
 
 
 import com.kpi.firstTry.domain.Message;
